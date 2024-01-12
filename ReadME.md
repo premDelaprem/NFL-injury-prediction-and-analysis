@@ -40,7 +40,4 @@ The primary goal of this project is to develop a predictive model for a professi
   - `src/` - Code for deploying models (e.g., Flask app, batch scripts)
   - `configs/` - Configuration files for deployment (e.g., .env, Dockerfile)
 
-- **8_Documentation/**
-  - `project_docs/` - Project documentation (e.g., setup guide, usage instructions)
-  - `api_docs/` - API documentation if applicable
 
