@@ -1,5 +1,7 @@
 # Project 4: Predicting the Probability of Injury of NFL Players
 
+### Developed by: Prem Patel, Jack Frantz, and Kyera Francis
+
 ## Objective
 The primary goal of this project is to develop a predictive model for a professional football analytics team. This model aims to accurately forecast the probability of player injuries in the NFL.
 
