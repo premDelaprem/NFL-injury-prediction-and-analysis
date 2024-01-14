@@ -161,3 +161,6 @@ cython_debug/
 
 # adding .DS_Store manually - prem
 .DS_Store
+
+# ignore data files
+data
