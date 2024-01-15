@@ -1,4 +1,4 @@
-# Project 4: Predicting the Probability of Injury of NFL Players
+# Project: Predicting the Probability of Injury of NFL Players
 
 ### Developed by: Prem Patel, Jack Frantz, and Kyera Francis
 
