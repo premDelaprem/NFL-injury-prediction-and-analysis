@@ -1,4 +1,6 @@
-# Project 4: Predicting the Probability of Injury of NFL Players
+# Project: Predicting the Probability of Injury of NFL Players
+
+### Developed by: Prem Patel, Jack Frantz, and Kyera Francis
 
 ## Objective
 The primary goal of this project is to develop a predictive model for a professional football analytics team. This model aims to accurately forecast the probability of player injuries in the NFL.
@@ -40,4 +42,13 @@ The primary goal of this project is to develop a predictive model for a professi
   - `src/` - Code for deploying models (e.g., Flask app, batch scripts)
   - `configs/` - Configuration files for deployment (e.g., .env, Dockerfile)
 
-
+## Dataset link & description
+- [NFL Injury Data](https://www.kaggle.com/datasets/jpmiller/nfl-competition-data)
+  - This dataset supports the Big Data Bowl 2023. You'll find new data gathered and aggregated via various APIs and scrapes:
+  - Weekly team rosters
+  - Play-by-play data with features related to rushing and tackles
+  - Charting data by play and game (see specific licensing terms),
+  - Injury data
+  - Data from the NFL Combine event 
+  
+  The data was collected by JohnM and is available on Kaggle.
