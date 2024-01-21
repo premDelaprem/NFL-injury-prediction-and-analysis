@@ -1,0 +1,106 @@
+PlayerKey,GameID,PlayKey,BodyPart,Surface,DM_M1,DM_M7,DM_M28,DM_M42,Severe,PlayerDay,PlayerGame,StadiumType,FieldType,Temperature,Weather,PlayType,PlayerGamePlay,PositionGroup
+39873,39873-4,39873-4-32,Knee,Synthetic,1,1,1,1,1,29,4,Indoors,Synthetic,84,Cloudy,Punt,32,LB
+46074,46074-7,46074-7-26,Knee,Natural,1,1,0,0,0,50,7,Open,Natural,76,Partly Cloudy,Punt,26,LB
+36557,36557-1,36557-1-70,Ankle,Synthetic,1,1,1,1,1,1,1,Outdoor,Synthetic,63,Clear and warm,Pass,70,DB
+46646,46646-3,46646-3-30,Ankle,Natural,1,0,0,0,0,15,3,Outdoor,Natural,80,Cloudy,Punt,30,LB
+43532,43532-5,43532-5-69,Ankle,Synthetic,1,1,1,1,1,32,5,Retractable Roof,Synthetic,89,Partly Cloudy,Kickoff,69,WR
+41145,41145-2,41145-2-60,Knee,Natural,1,0,0,0,0,11,2,Outdoor,Natural,89,Sunny,Pass,60,DB
+46014,46014-10,46014-10-22,Ankle,Synthetic,1,1,1,1,1,71,10,Retractable Roof,Synthetic,60,Sunny,Rush,22,RB
+44860,44860-5,44860-5-52,Knee,Natural,1,1,0,0,0,29,5,Outdoor,Natural,67,Cloudy,Rush,52,LB
+44806,44806-7,44806-7-61,Knee,Synthetic,1,0,0,0,0,43,7,Indoor,Synthetic,-999,Indoor,Rush,61,LB
+45962,45962-8,45962-8-40,Ankle,Synthetic,1,1,0,0,0,54,8,Outdoor,Synthetic,68,Clear,Pass,40,WR
+46331,46331-4,46331-4-44,Ankle,Synthetic,1,1,1,1,1,22,4,Outdoor,Synthetic,61,Sunny,Pass,44,DB
+36621,36621-13,36621-13-58,Foot,Natural,1,1,1,1,1,92,13,Dome,Natural,79,,Rush,58,OL
+44492,44492-3,44492-3-23,Ankle,Natural,1,1,1,1,1,15,3,Outddors,Natural,88,Sunny,Rush,23,RB
+43505,43505-2,43505-2-49,Foot,Natural,1,1,1,1,1,11,2,Outdoor,Natural,68,Cloudy,Pass,49,OL
+41094,41094-1,41094-1-55,Knee,Natural,1,1,1,1,1,1,1,Outdoors,Natural,72,Sunny,Pass,55,DB
+40474,40474-1,40474-1-8,Knee,Synthetic,1,0,0,0,0,1,1,Indoors,Synthetic,70,Indoor,Kickoff,8,LB
+39656,39656-2,39656-2-38,Knee,Synthetic,1,1,0,0,0,7,2,Indoor,Synthetic,-999,Indoor,Pass,38,WR
+46587,46587-2,46587-2-13,Knee,Synthetic,1,1,1,1,1,8,2,Retr. Roof-Closed,Synthetic,68,Cloudy,Kickoff,13,WR
+46119,46119-3,46119-3-16,Knee,Natural,1,1,0,0,0,15,3,Outdoor,Natural,89,Sunny,Punt,16,LB
+38364,38364-5,38364-5-23,Foot,Synthetic,1,1,1,1,1,29,5,,Synthetic,76,Cloudy,Kickoff,23,WR
+45966,45966-4,45966-4-27,Knee,Synthetic,1,1,1,1,1,21,4,Indoor,Synthetic,-999,Indoor,Rush,27,RB
+35611,35611-7,35611-7-42,Ankle,Synthetic,1,1,0,0,0,50,7,Indoors,Synthetic,68,Controlled Climate,Pass,42,DB
+44434,44434-10,44434-10-31,Foot,Natural,1,1,1,1,1,71,10,Outdoor,Natural,38,Cold,Pass,31,DL
+44489,44489-11,44489-11-32,Ankle,Synthetic,1,1,1,1,1,78,11,Outdoor,Synthetic,46,Partly Cloudy,Pass,32,LB
+44511,44511-5,44511-5-41,Ankle,Synthetic,1,1,1,0,0,43,5,,Synthetic,75,Partly Cloudy,Pass,41,LB
+43826,43826-7,43826-7-12,Knee,Synthetic,1,1,0,0,0,64,7,Closed Dome,Synthetic,-999,,Pass,12,RB
+43518,43518-6,43518-6-25,Ankle,Synthetic,1,1,1,1,1,36,6,Indoor,Synthetic,-999,Indoor,Pass,25,DB
+34347,34347-5,34347-5-9,Knee,Natural,1,1,0,0,0,39,5,Oudoor,Natural,48,Partly Cloudy,Kickoff,9,WR
+41943,41943-1,41943-1-12,Ankle,Natural,1,1,0,0,0,1,1,Outdoor,Natural,70,Sunny,Rush,12,LB
+41209,41209-9,41209-9-9,Ankle,Synthetic,1,1,0,0,0,63,9,Outdoors,Synthetic,42,Cloudy,Rush,9,LB
+44900,44900-7,44900-7-10,Knee,Natural,1,1,0,0,0,43,7,Outdoor,Natural,70,"Cloudy with periods of rain, thunder possible. Winds shifting to WNW, 10-20 mph.",Kickoff,10,DL
+31070,31070-3,31070-3-7,Knee,Natural,1,1,1,1,1,15,3,Outdoor,Natural,89,Sunny,Rush,7,RB
+38228,38228-1,38228-1-4,Ankle,Synthetic,1,1,0,0,0,1,1,Outdoors,Synthetic,65,Sun & clouds,Punt,4,LB
+39956,39956-2,39956-2-14,Knee,Natural,1,1,0,0,0,8,2,Outdoor,Natural,68,Cloudy,Pass,14,DB
+45950,45950-8,45950-8-18,Ankle,Natural,1,0,0,0,0,71,8,Outdoor,Natural,38,Cold,Punt,18,DB
+43540,43540-3,43540-3-14,Ankle,Natural,1,0,0,0,0,15,3,Outdoor,Natural,89,Sunny,Rush,14,LB
+44440,44440-6,44440-6-18,Ankle,Synthetic,1,0,0,0,0,-34,6,"Indoor, Roof Closed",Synthetic,-999,Indoors,Pass,18,DB
+44449,44449-6,44449-6-13,Knee,Natural,1,0,0,0,0,42,6,Outdoor,Natural,52,Rain,Pass,13,WR
+42406,42406-6,42406-6-13,Ankle,Synthetic,1,0,0,0,0,43,6,,Synthetic,75,Partly Cloudy,Pass,13,OL
+42637,42637-3,42637-3-6,Knee,Natural,1,1,1,1,1,12,3,Outdoor,Natural,33,Clear,Punt,6,LB
+46430,46430-8,46430-8-6,Knee,Natural,1,1,0,0,0,71,8,Outdoor,Natural,38,Cold,Punt,6,LB
+38192,38192-8,38192-8-8,Ankle,Natural,1,0,0,0,0,57,8,Outdoors,Natural,61,Coudy,Pass,8,WR
+39678,39678-2,39678-2-1,Ankle,Synthetic,1,1,1,1,1,8,2,"Indoor, Open Roof",Synthetic,78,Clear,Rush,1,DL
+39850,39850-9,39850-9-2,Knee,Synthetic,1,1,1,1,1,64,9,Outdoor,Synthetic,47,Partly Cloudy,Punt,2,DB
+43540,43540-7,43540-7-2,Ankle,Natural,1,1,1,1,1,44,7,Outdoor,Natural,70,Cloudy,Pass,2,LB
+42600,42600-3,42600-3-1,Knee,Natural,1,1,1,1,1,15,3,Outddors,Natural,88,Sunny,Kickoff,1,LB
+42456,42456-20,42456-20-76,Ankle,Synthetic,1,1,1,0,0,386,20,Retr. Roof - Open,Synthetic,73,Mostly sunny,Rush,76,DB
+46038,46038-30,46038-30-58,Ankle,Natural,1,1,0,0,0,463,30,Outdoor,Natural,45,Fair,Pass,58,DB
+41113,41113-15,41113-15-63,Ankle,Natural,1,0,0,0,0,421,15,Outdoor,Natural,53,Sunny,Rush,63,LB
+47235,47235-7,47235-7-55,Foot,Synthetic,1,1,1,0,0,50,7,Outdoor,Synthetic,55,"Cloudy, 50% change of rain",Punt Not Returned,55,DB
+47382,47382-3,47382-3-34,Ankle,Synthetic,1,0,0,0,0,18,3,"Domed, closed",Synthetic,-999,,Rush,34,LB
+44421,44421-12,44421-12-41,Knee,Natural,1,1,0,0,0,365,12,Outdoor,Natural,61,Rain,Pass,41,DL
+42348,42348-23,42348-23-53,Knee,Synthetic,1,1,1,0,0,406,23,Outdoor,Synthetic,46,Cloudy,Rush,53,LB
+42398,42398-15,42398-15-33,Knee,Synthetic,1,1,1,1,1,396,15,,Synthetic,70,Light Rain,Punt Returned,33,WR
+36559,36559-12,36559-12-65,Knee,Natural,1,1,0,0,0,365,12,Outdoor,Natural,58,Rain,Pass,65,DB
+47220,47220-4,47220-4-16,Knee,Synthetic,1,1,0,0,0,29,4,Outdoor,Synthetic,55,"Cloudy, 50% change of rain",Pass,16,RB
+47813,47813-8,47813-8-19,Ankle,Synthetic,1,1,0,0,0,78,8,Outdoors,Synthetic,44,Cloudy,Punt Returned,19,DB
+35570,35570-15,35570-15-35,Knee,Natural,1,1,0,0,0,389,15,Outdoor,Natural,79,Clear,Pass,35,OL
+44482,44482-20,44482-20-21,Knee,Synthetic,1,1,1,1,1,428,20,Outdoor,Synthetic,39,Mostly Sunny,Rush,21,DL
+44449,44449-28,44449-28-35,Ankle,Synthetic,1,0,0,0,0,445,28,Indoor,Synthetic,70,Clear Skies,Pass,35,WR
+38876,38876-29,38876-29-14,Ankle,Natural,1,1,0,0,0,471,29,Outdoor,Natural,58,Rain,Punt Returned,14,WR
+46098,46098-17,46098-17-27,Ankle,Synthetic,1,0,0,0,0,462,17,Outdoors,Synthetic,39,Rain shower,Rush,27,WR
+36607,36607-16,36607-16-19,Knee,Synthetic,1,1,1,1,1,422,16,Indoor,Synthetic,74,Clear skies,Pass,19,LB
+44542,44542-13,44542-13-20,Ankle,Natural,1,1,0,0,0,89,13,Outdoors,Natural,44,Clear,Pass,20,WR
+45983,45983-18,45983-18-21,Ankle,Natural,1,1,0,0,0,373,18,Outdoor,Natural,79,Clear,Rush,21,OL
+33474,33474-19,33474-19-7,Knee,Natural,1,1,1,0,0,393,19,Outdoor,Natural,79,Partly Cloudy,Rush,7,DB
+47287,47287-4,47287-4-16,Knee,Natural,1,0,0,0,0,22,4,Outdoor,Natural,71,Partly Cloudy,Pass,16,WR
+33337,33337-8,33337-8-15,Foot,Natural,1,1,1,0,0,365,8,Outdoors,Natural,81,Partly Cloudy,Pass,15,TE
+47307,47307-10,47307-10-18,Knee,Synthetic,1,1,0,0,0,74,10,Dome,Synthetic,68,Indoors,Pass,18,DB
+47307,47307-10,47307-10-18,Ankle,Synthetic,1,1,0,0,0,74,10,Dome,Synthetic,68,Indoors,Pass,18,DB
+43672,43672-8,43672-8-9,Knee,Synthetic,1,1,0,0,0,365,8,Outdoor,Synthetic,62,Cloudy and Cool,Rush,9,DL
+46316,46316-5,46316-5-4,Ankle,Natural,1,1,0,0,0,334,5,Outdoor,Natural,75,Clear,Rush,4,DL
+42418,42418-19,42418-19-15,Ankle,Synthetic,1,0,0,0,0,442,19,Retr. Roof - Closed,Synthetic,57,Mostly cloudy,Rush,15,OL
+46394,46394-18,46394-18-3,Knee,Synthetic,1,1,0,0,0,393,18,Outdoor,Synthetic,45,Cloudy,Kickoff Returned,3,TE
+45187,45187-9,45187-9-4,Ankle,Natural,1,0,0,0,0,327,9,Outdoor,Natural,81,Cloudy,Rush,4,WR
+42448,42448-14,42448-14-3,Knee,Synthetic,1,1,1,0,0,379,14,Retractable Roof,Synthetic,78,Partly Cloudy,Pass,3,WR
+47334,47334-8,47334-8-1,Knee,Synthetic,1,1,0,0,0,58,8,Indoor,Synthetic,74,Clear skies,Kickoff Not Returned,1,DB
+33337,33337-2,33337-2-1,Foot,Natural,1,1,1,1,1,8,2,Outdoors,Natural,83,Sunny,Rush,1,TE
+45099,45099-5,45099-5-1,Knee,Natural,1,1,1,1,1,29,5,Outdoor,Natural,72,Sunny,Kickoff,1,DB
+36591,36591-9,36591-9-1,Knee,Natural,1,1,1,1,1,64,9,Open,Natural,76,Partly Cloudy,Kickoff,1,WR
+45950,45950-6,45950-6-1,Toes,Synthetic,1,1,0,0,0,36,6,Retractable Roof,Synthetic,85,Partly Cloudy,Pass,1,DB
+39653,39653-4,39653-4-1,Ankle,Synthetic,1,0,0,0,0,25,4,Outdoor,Synthetic,61,Sunny,Rush,1,DB
+38253,38253-10,38253-10-1,Toes,Synthetic,1,1,1,0,0,71,10,Indoors,Synthetic,57,Sunny,Rush,1,DL
+38214,38214-12,38214-12-1,Toes,Synthetic,1,0,0,0,0,84,12,Indoors,Synthetic,69,Sunny,Pass,1,RB
+43119,43119-12,43119-12-1,Ankle,Synthetic,1,0,0,0,0,88,12,Outdoors,Synthetic,48,Mostly cloudy,Pass,1,DB
+35648,35648-12,35648-12-1,Ankle,Natural,1,0,0,0,0,92,12,Heinz Field,Natural,33,Cloudy,Rush,1,WR
+40051,40051-13,40051-13-1,Ankle,Natural,1,0,0,0,0,92,13,Dome,Natural,79,,Kickoff,1,TE
+39671,39671-12,39671-12-1,Ankle,Natural,1,1,1,1,1,99,12,Outdoors,Natural,51,Party Cloudy,Rush,1,LB
+43229,43229-15,43229-15-1,Ankle,Synthetic,1,1,0,0,0,105,15,Outdoor,Synthetic,40,,Kickoff,1,DB
+46021,46021-1,46021-1-1,Knee,Synthetic,1,1,0,0,0,1,1,Indoors,Synthetic,68,Controlled Climate,Pass,1,WR
+38259,38259-2,38259-2-1,Knee,Natural,1,0,0,0,0,8,2,Open,Natural,84,Partly Cloudy,Rush,1,RB
+45158,45158-3,45158-3-1,Knee,Natural,1,0,0,0,0,15,3,Outdoor,Natural,76,Clear,Kickoff,1,RB
+36572,36572-4,36572-4-1,Knee,Synthetic,1,0,0,0,0,22,4,Retractable Roof,Synthetic,87,Sunny,Pass,1,DB
+43490,43490-9,43490-9-1,Knee,Synthetic,1,0,0,0,0,-13,9,Indoors,Synthetic,79,Partly Cloudy,Rush,1,OL
+36573,36573-14,36573-14-1,Ankle,Synthetic,1,1,1,1,1,113,14,Outdoor,Synthetic,40,Sunny,Rush,1,TE
+46134,46134-18,46134-18-1,Heel,Natural,1,1,0,0,0,428,18,Outdoor,Natural,43,Sunny and clear,Kickoff Returned,1,DB
+47196,47196-7,47196-7-1,Toes,Synthetic,1,1,0,0,0,50,7,Indoors,Synthetic,-999,N/A (Indoors),Extra Point,1,DL
+45975,45975-23,45975-23-1,Toes,Natural,1,1,0,0,0,358,23,Outdoor,Natural,82,Clear,Pass,1,DB
+47273,47273-10,47273-10-1,Toes,Synthetic,1,0,0,0,0,71,10,Dome,Synthetic,68,Indoors,Pass,1,WR
+40405,40405-29,40405-29-1,Toes,Synthetic,1,1,0,0,0,470,29,Outdoor,Synthetic,40,Clear and cold,Rush,1,WR
+44423,44423-13,44423-13-1,Knee,Synthetic,1,0,0,0,0,365,13,Retr. Roof - Open,Synthetic,73,Mostly sunny,Rush,1,WR
+31933,31933-20,31933-20-1,Knee,Synthetic,1,0,0,0,0,394,20,Indoors,Synthetic,84,Partly Cloudy,Pass,1,TE
+47285,47285-4,47285-4-1,Knee,Natural,1,1,0,0,0,22,4,,Natural,68,,Rush,1,WR
+37068,37068-19,37068-19-1,Knee,Natural,1,1,0,0,0,417,19,Outdoor,Natural,56,Clear and Sunny,Kickoff Not Returned,1,LB
+36696,36696-24,36696-24-1,Knee,Synthetic,1,1,0,0,0,439,24,Indoors,Synthetic,68,,Kickoff Not Returned,1,DB
