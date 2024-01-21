@@ -164,4 +164,9 @@ cython_debug/
 
 # ignore data files
 data
+
+data_planB
+
+
 4_FeatureEngineering/src/feature_no_outliers_*.csv
+
