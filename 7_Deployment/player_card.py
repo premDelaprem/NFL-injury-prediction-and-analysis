@@ -56,21 +56,51 @@ def load_injuries():
 # Function to show player information
 def show_player_info():
     st.header("Player Information")
-    col1, col2 = st.columns(
-        2
-    )  # Ref: https://www.youtube.com/watch?v=clFrWjiwxL0&list=PLJJOI_ZUeaBphhaFWf2fotnKhF95MdI4g&index=30
-    with col1:
-        st.image(
-            "https://static01.nyt.com/images/2019/12/10/sports/10nfl-injuries-1/10nfl-injuries-1-superJumbo.jpg?quality=90&auto=webp"
-        )
-
     nflplayer = load_data()
-    player_names = nflplayer["player_name"].unique()
+
+    # Team and Player Selection
     teams = nflplayer["team"].unique()
     selected_team = st.selectbox("Select a team", teams)
+    team_players = nflplayer[nflplayer["team"] == selected_team]
+    player_names = team_players["player_name"].unique()
     selected_player = st.selectbox("Select a player", player_names)
-    player_info = nflplayer[nflplayer["player_name"] == selected_player]
-    st.write(player_info)
+
+    # Filtered Player Information
+    player_info = team_players[team_players["player_name"] == selected_player]
+
+    # 2x2 Grid Layout
+    col1, col2, col3, col4 = st.columns(4)
+
+    # Personal Information
+    with col1:
+        st.subheader("Personal Info")
+        st.write(f"Name: {player_info['player_name'].iloc[0]}")
+        st.write(f"Age: {player_info['age'].iloc[0]}")
+
+    # Physical Attributes
+    with col2:
+        st.subheader("Physical Attributes")
+        st.write(f"Height: {player_info['height'].iloc[0]}")
+        st.write(f"Weight: {player_info['weight'].iloc[0]}")
+
+    # Professional Details
+    with col3:
+        st.subheader("Professional Details")
+        st.write(f"Team: {player_info['team'].iloc[0]}")
+        st.write(f"Jersey Number: {player_info['jersey_number'].iloc[0]}")
+        st.write(f"Status: {player_info['status'].iloc[0]}")
+
+    # Additional Information
+    with col4:
+        st.subheader("Additional Info")
+        st.write(f"College: {player_info['college'].iloc[0]}")
+        st.write(f"Years Exp: {player_info['years_exp'].iloc[0]}")
+
+    # Display player headshot in the sidebar if URL exists
+    if not player_info["headshot_url"].empty:
+        headshot_url = player_info["headshot_url"].iloc[0]
+        if headshot_url:
+            st.sidebar.image(headshot_url, caption=selected_player)
 
 
 ##########################################
