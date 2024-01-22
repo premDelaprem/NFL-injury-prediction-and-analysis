@@ -1,0 +1,285 @@
+Date_Time,Away_Team,Home_Team,Away_Score,Home_Score,Temperature,Weather_Condition
+09/08/22 08:20 PM EDT,Bills,Rams,31,10,91 °F,Partly Cloudy
+09/11/22 01:00 PM EDT,Saints,Falcons,27,26,78 °F,Mostly Cloudy
+09/11/22 01:00 PM EDT,49ers,Bears,10,19,68 °F,Rain
+09/11/22 01:00 PM EDT,Steelers,Bengals,23,20,75 °F,Mostly Cloudy
+09/11/22 01:00 PM EDT,Eagles,Lions,38,35,74 °F,Mostly Cloudy
+09/11/22 01:00 PM EDT,Patriots,Dolphins,7,20,90 °F,Humid And Partly Cloudy
+09/11/22 01:00 PM EDT,Ravens,Jets,24,9,74 °F,Light Rain
+09/11/22 01:00 PM EDT,Jaguars,Washington,22,28,74 °F,Humid And Overcast
+09/11/22 01:00 PM EDT,Browns,Panthers,26,24,80 °F,Mostly Cloudy
+09/11/22 01:00 PM EDT,Colts,Texans,20,20,88 °F,Clear
+09/11/22 04:25 PM EDT,Giants,Titans,21,20,78 °F,Humid And Mostly Cloudy
+09/11/22 04:25 PM EDT,Packers,Vikings,7,23,72 °F,Partly Cloudy
+09/11/22 04:25 PM EDT,Chiefs,Cardinals,44,21,97 °F,Clear
+09/11/22 04:25 PM EDT,Raiders,Chargers,19,24,86 °F,Clear
+09/11/22 08:20 PM EDT,Buccaneers,Cowboys,19,3,82 °F,Clear
+09/12/22 08:15 PM EDT,Broncos,Seahawks,16,17,75 °F,Clear
+09/15/22 08:15 PM EDT,Chargers,Chiefs,24,27,79 °F,Mostly Cloudy
+09/18/22 01:00 PM EDT,Jets,Browns,31,30,81 °F,Clear
+09/18/22 01:00 PM EDT,Washington,Lions,27,36,81 °F,Mostly Cloudy
+09/18/22 01:00 PM EDT,Buccaneers,Saints,20,10,86 °F,Humid And Mostly Cloudy
+09/18/22 01:00 PM EDT,Panthers,Giants,16,19,79 °F,Clear
+09/18/22 01:00 PM EDT,Patriots,Steelers,17,14,79 °F,Clear
+09/18/22 01:00 PM EDT,Colts,Jaguars,0,24,81 °F,Humid And Mostly Cloudy
+09/18/22 01:00 PM EDT,Dolphins,Ravens,42,38,81 °F,Clear
+09/18/22 04:05 PM EDT,Falcons,Rams,27,31,74 °F,Mostly Cloudy
+09/18/22 04:05 PM EDT,Seahawks,49ers,7,27,68 °F,Drizzle
+09/18/22 04:25 PM EDT,Bengals,Cowboys,17,20,93 °F,Clear
+09/18/22 04:25 PM EDT,Texans,Broncos,9,16,80 °F,Foggy
+09/18/22 04:25 PM EDT,Cardinals,Raiders,29,23,90 °F,Clear
+09/18/22 08:20 PM EDT,Bears,Packers,10,27,72 °F,Mostly Cloudy
+09/19/22 07:15 PM EDT,Titans,Bills,7,41,66 °F,Mostly Cloudy
+09/19/22 08:30 PM EDT,Vikings,Eagles,7,24,74 °F,Partly Cloudy
+09/22/22 08:15 PM EDT,Steelers,Browns,17,29,60 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Texans,Bears,20,23,65 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Raiders,Titans,22,24,77 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Chiefs,Colts,17,20,68 °F,Partly Cloudy
+09/25/22 01:00 PM EDT,Bills,Dolphins,19,21,88 °F,Humid
+09/25/22 01:00 PM EDT,Lions,Vikings,24,28,66 °F,Clear
+09/25/22 01:00 PM EDT,Ravens,Patriots,37,26,67 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Bengals,Jets,27,12,70 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Eagles,Washington,24,8,75 °F,Mostly Cloudy
+09/25/22 01:00 PM EDT,Saints,Panthers,14,22,68 °F,Mostly Cloudy
+09/25/22 04:05 PM EDT,Jaguars,Chargers,38,10,82 °F,Clear
+09/25/22 04:25 PM EDT,Rams,Cardinals,20,12,102 °F,Clear
+09/25/22 04:25 PM EDT,Falcons,Seahawks,27,23,72 °F,Clear
+09/25/22 04:25 PM EDT,Packers,Buccaneers,14,12,89 °F,Humid And Partly Cloudy
+09/25/22 08:20 PM EDT,49ers,Broncos,10,11,73 °F,Foggy
+09/26/22 08:15 PM EDT,Cowboys,Giants,23,16,66 °F,Clear
+09/29/22 08:15 PM EDT,Dolphins,Bengals,15,27,58 °F,Clear
+10/02/22 09:30 AM EDT,Vikings,Saints,28,25,64 °F,Clear
+10/02/22 01:00 PM EDT,Browns,Falcons,20,23,69 °F,Clear
+10/02/22 01:00 PM EDT,Washington,Cowboys,10,25,76 °F,Clear
+10/02/22 01:00 PM EDT,Seahawks,Lions,48,45,60 °F,Clear
+10/02/22 01:00 PM EDT,Titans,Colts,24,17,65 °F,Clear
+10/02/22 01:00 PM EDT,Bears,Giants,12,20,57 °F,Drizzle
+10/02/22 01:00 PM EDT,Jaguars,Eagles,21,29,55 °F,Rain
+10/02/22 01:00 PM EDT,Jets,Steelers,24,20,57 °F,Overcast
+10/02/22 01:00 PM EDT,Bills,Ravens,23,20,57 °F,Light Rain
+10/02/22 01:00 PM EDT,Chargers,Texans,34,24,78 °F,Clear
+10/02/22 04:05 PM EDT,Cardinals,Panthers,26,16,64 °F,Overcast
+10/02/22 04:25 PM EDT,Patriots,Packers,24,27,62 °F,Clear
+10/02/22 04:25 PM EDT,Broncos,Raiders,23,32,88 °F,Clear
+10/02/22 08:20 PM EDT,Chiefs,Buccaneers,41,31,75 °F,Clear
+10/03/22 08:15 PM EDT,Rams,49ers,9,24,70 °F,Clear
+10/06/22 08:15 PM EDT,Colts,Broncos,12,9,70 °F,Foggy
+10/09/22 09:30 AM EDT,Giants,Packers,27,22,62 °F,Partly Cloudy
+10/09/22 01:00 PM EDT,Steelers,Bills,3,38,53 °F,Partly Cloudy
+10/09/22 01:00 PM EDT,Chargers,Browns,30,28,60 °F,Clear
+10/09/22 01:00 PM EDT,Bears,Vikings,22,29,61 °F,Clear
+10/09/22 01:00 PM EDT,Lions,Patriots,0,29,59 °F,Clear
+10/09/22 01:00 PM EDT,Seahawks,Saints,32,39,73 °F,Clear
+10/09/22 01:00 PM EDT,Dolphins,Jets,17,40,61 °F,Clear
+10/09/22 01:00 PM EDT,Falcons,Buccaneers,15,21,84 °F,Partly Cloudy
+10/09/22 01:00 PM EDT,Titans,Washington,21,17,62 °F,Clear
+10/09/22 01:00 PM EDT,Texans,Jaguars,13,6,81 °F,Clear
+10/09/22 04:05 PM EDT,49ers,Panthers,37,15,65 °F,Partly Cloudy
+10/09/22 04:25 PM EDT,Cowboys,Rams,22,10,74 °F,Clear
+10/09/22 04:25 PM EDT,Eagles,Cardinals,20,17,87 °F,Clear
+10/09/22 08:20 PM EDT,Bengals,Ravens,17,19,54 °F,Clear
+10/10/22 08:15 PM EDT,Raiders,Chiefs,29,30,72 °F,Partly Cloudy
+10/13/22 08:15 PM EDT,Washington,Bears,12,7,47 °F,Partly Cloudy
+10/16/22 01:00 PM EDT,49ers,Falcons,14,28,78 °F,Clear
+10/16/22 01:00 PM EDT,Patriots,Browns,38,15,64 °F,Clear
+10/16/22 01:00 PM EDT,Jets,Packers,27,10,48 °F,Overcast
+10/16/22 01:00 PM EDT,Jaguars,Colts,27,34,63 °F,Clear
+10/16/22 01:00 PM EDT,Vikings,Dolphins,24,16,84 °F,Humid And Partly Cloudy
+10/16/22 01:00 PM EDT,Bengals,Saints,30,26,83 °F,Mostly Cloudy
+10/16/22 01:00 PM EDT,Ravens,Giants,20,24,62 °F,Partly Cloudy
+10/16/22 01:00 PM EDT,Buccaneers,Steelers,18,20,61 °F,Clear
+10/16/22 04:05 PM EDT,Panthers,Rams,10,24,70 °F,Mostly Cloudy
+10/16/22 04:05 PM EDT,Cardinals,Seahawks,9,19,77 °F,Clear
+10/16/22 04:25 PM EDT,Bills,Chiefs,24,20,64 °F,Partly Cloudy
+10/16/22 08:20 PM EDT,Cowboys,Eagles,17,26,59 °F,Mostly Cloudy
+10/17/22 08:15 PM EDT,Broncos,Chargers,16,19,71 °F,Clear
+10/20/22 08:15 PM EDT,Saints,Cardinals,34,42,88 °F,Clear
+10/23/22 01:00 PM EDT,Falcons,Bengals,17,35,73 °F,Clear
+10/23/22 01:00 PM EDT,Lions,Cowboys,6,24,78 °F,Partly Cloudy
+10/23/22 01:00 PM EDT,Colts,Titans,10,19,73 °F,Clear
+10/23/22 01:00 PM EDT,Packers,Washington,21,0,62 °F,Overcast
+10/23/22 01:00 PM EDT,Buccaneers,Panthers,3,21,72 °F,Clear
+10/23/22 01:00 PM EDT,Giants,Jaguars,23,17,76 °F,Clear
+10/23/22 01:00 PM EDT,Browns,Ravens,20,23,65 °F,Overcast
+10/23/22 04:05 PM EDT,Jets,Broncos,16,9,67 °F,Foggy
+10/23/22 04:05 PM EDT,Texans,Raiders,20,38,62 °F,Clear
+10/23/22 04:25 PM EDT,Seahawks,Chargers,37,23,71 °F,Clear
+10/23/22 04:25 PM EDT,Chiefs,49ers,44,23,67 °F,Clear
+10/23/22 08:20 PM EDT,Steelers,Dolphins,10,16,77 °F,Partly Cloudy
+10/24/22 08:15 PM EDT,Bears,Patriots,33,14,57 °F,Overcast
+10/27/22 08:15 PM EDT,Ravens,Buccaneers,27,22,79 °F,Humid
+10/30/22 09:30 AM EDT,Broncos,Jaguars,21,17,61 °F,Overcast
+10/30/22 01:00 PM EDT,Panthers,Falcons,34,37,58 °F,Overcast
+10/30/22 01:00 PM EDT,Bears,Cowboys,29,49,65 °F,Clear
+10/30/22 01:00 PM EDT,Dolphins,Lions,31,27,55 °F,Mostly Cloudy
+10/30/22 01:00 PM EDT,Cardinals,Vikings,26,34,55 °F,Clear
+10/30/22 01:00 PM EDT,Raiders,Saints,0,24,69 °F,Clear
+10/30/22 01:00 PM EDT,Patriots,Jets,22,17,60 °F,Clear
+10/30/22 01:00 PM EDT,Steelers,Eagles,13,35,60 °F,Clear
+10/30/22 04:05 PM EDT,Titans,Texans,17,10,73 °F,Partly Cloudy
+10/30/22 04:25 PM EDT,Washington,Colts,17,16,58 °F,Overcast
+10/30/22 04:25 PM EDT,49ers,Rams,31,14,76 °F,Clear
+10/30/22 04:25 PM EDT,Giants,Seahawks,13,27,53 °F,Overcast
+10/30/22 08:20 PM EDT,Packers,Bills,17,27,48 °F,Overcast
+10/31/22 08:15 PM EDT,Bengals,Browns,13,32,63 °F,Mostly Cloudy
+11/03/22 08:15 PM EDT,Eagles,Texans,29,17,76 °F,Humid And Partly Cloudy
+11/06/22 02:00 PM EST,Chargers,Falcons,20,17,79 °F,Mostly Cloudy
+11/06/22 02:00 PM EST,Dolphins,Bears,35,32,58 °F,Clear
+11/06/22 02:00 PM EST,Panthers,Bengals,21,42,69 °F,Clear
+11/06/22 02:00 PM EST,Packers,Lions,9,15,61 °F,Partly Cloudy
+11/06/22 02:00 PM EST,Colts,Patriots,3,26,73 °F,Overcast
+11/06/22 02:00 PM EST,Bills,Jets,17,20,72 °F,Overcast
+11/06/22 02:00 PM EST,Vikings,Washington,20,17,74 °F,Mostly Cloudy
+11/06/22 02:00 PM EST,Raiders,Jaguars,20,27,80 °F,Humid And Mostly Cloudy
+11/06/22 05:05 PM EST,Seahawks,Cardinals,31,21,76 °F,Clear
+11/06/22 05:25 PM EST,Rams,Buccaneers,13,16,86 °F,Mostly Cloudy
+11/06/22 09:20 PM EST,Titans,Chiefs,17,20,52 °F,Clear
+11/07/22 09:15 PM EST,Ravens,Saints,27,13,76 °F,Clear
+11/10/22 09:15 PM EST,Falcons,Panthers,15,25,60 °F,Light Rain
+11/13/22 10:30 AM EST,Seahawks,Buccaneers,16,21,48 °F,Clear
+11/13/22 02:00 PM EST,Vikings,Bills,33,30,35 °F,Heavy Snow
+11/13/22 02:00 PM EST,Lions,Bears,31,30,34 °F,Possible Flurries
+11/13/22 02:00 PM EST,Broncos,Titans,10,17,37 °F,Partly Cloudy
+11/13/22 02:00 PM EST,Jaguars,Chiefs,17,27,34 °F,Clear
+11/13/22 02:00 PM EST,Browns,Dolphins,17,39,84 °F,Clear
+11/13/22 02:00 PM EST,Texans,Giants,16,24,52 °F,Partly Cloudy
+11/13/22 02:00 PM EST,Saints,Steelers,10,20,41 °F,Overcast
+11/13/22 05:05 PM EST,Colts,Raiders,25,20,54 °F,Partly Cloudy
+11/13/22 05:25 PM EST,Cowboys,Packers,28,31,33 °F,Mostly Cloudy
+11/13/22 05:25 PM EST,Cardinals,Rams,27,17,69 °F,Clear
+11/13/22 09:20 PM EST,Chargers,49ers,16,22,55 °F,Clear
+11/14/22 09:15 PM EST,Washington,Eagles,32,21,38 °F,Clear
+11/17/22 08:15 PM EST,Titans,Packers,27,17,25 °F,Mostly Cloudy
+11/20/22 01:00 PM EST,Bears,Falcons,24,27,41 °F,Overcast
+11/20/22 01:00 PM EST,Browns,Bills,23,31,26 °F,Light Snow
+11/20/22 01:00 PM EST,Eagles,Colts,17,16,27 °F,Clear
+11/20/22 01:00 PM EST,Jets,Patriots,3,10,38 °F,Clear
+11/20/22 01:00 PM EST,Rams,Saints,20,27,49 °F,Clear
+11/20/22 01:00 PM EST,Lions,Giants,31,18,37 °F,Clear
+11/20/22 01:00 PM EST,Panthers,Ravens,3,13,35 °F,Clear
+11/20/22 01:00 PM EST,Washington,Texans,23,10,47 °F,Partly Cloudy
+11/20/22 04:05 PM EST,Raiders,Broncos,22,16,45 °F,Foggy
+11/20/22 04:25 PM EST,Cowboys,Vikings,40,3,29 °F,Snow
+11/20/22 04:25 PM EST,Chiefs,Chargers,30,27,77 °F,Clear
+11/20/22 08:20 PM EST,Bengals,Steelers,37,30,27 °F,Clear
+11/21/22 08:00 PM EST,49ers,Cardinals,38,10,60 °F,Overcast
+11/24/22 12:30 PM EST,Bills,Lions,28,25,46 °F,Partly Cloudy
+11/24/22 04:30 PM EST,Giants,Cowboys,20,28,59 °F,Rain
+11/24/22 08:20 PM EST,Patriots,Vikings,26,33,35 °F,Clear
+11/27/22 01:00 PM EST,Buccaneers,Browns,17,23,54 °F,Overcast
+11/27/22 01:00 PM EST,Bengals,Titans,20,16,53 °F,Mostly Cloudy
+11/27/22 01:00 PM EST,Texans,Dolphins,15,30,83 °F,Humid And Mostly Cloudy
+11/27/22 01:00 PM EST,Bears,Jets,10,31,51 °F,Overcast
+11/27/22 01:00 PM EST,Falcons,Washington,13,19,48 °F,Rain
+11/27/22 01:00 PM EST,Broncos,Panthers,10,23,63 °F,Mostly Cloudy
+11/27/22 01:00 PM EST,Ravens,Jaguars,27,28,76 °F,Overcast
+11/27/22 04:05 PM EST,Chargers,Cardinals,25,24,65 °F,Clear
+11/27/22 04:05 PM EST,Raiders,Seahawks,40,34,45 °F,Mostly Cloudy
+11/27/22 04:25 PM EST,Rams,Chiefs,10,26,45 °F,Partly Cloudy
+11/27/22 04:25 PM EST,Saints,49ers,0,13,65 °F,Mostly Cloudy
+11/27/22 08:20 PM EST,Packers,Eagles,33,40,60 °F,Overcast
+11/28/22 08:15 PM EST,Steelers,Colts,24,17,44 °F,Mostly Cloudy
+12/01/22 08:15 PM EST,Bills,Patriots,24,10,36 °F,Clear
+12/04/22 01:00 PM EST,Steelers,Falcons,19,16,56 °F,Mostly Cloudy
+12/04/22 01:00 PM EST,Packers,Bears,28,19,31 °F,Clear
+12/04/22 01:00 PM EST,Jaguars,Lions,14,40,32 °F,Clear
+12/04/22 01:00 PM EST,Jets,Vikings,22,27,25 °F,Clear
+12/04/22 01:00 PM EST,Washington,Giants,20,20,43 °F,Clear
+12/04/22 01:00 PM EST,Titans,Eagles,10,35,44 °F,Clear
+12/04/22 01:00 PM EST,Broncos,Ravens,9,10,43 °F,Clear
+12/04/22 01:00 PM EST,Browns,Texans,27,14,65 °F,Mostly Cloudy
+12/04/22 04:05 PM EST,Seahawks,Rams,27,23,64 °F,Overcast
+12/04/22 04:05 PM EST,Dolphins,49ers,17,33,58 °F,Partly Cloudy
+12/04/22 04:25 PM EST,Chiefs,Bengals,24,27,41 °F,Clear
+12/04/22 04:25 PM EST,Chargers,Raiders,20,27,59 °F,Clear
+12/04/22 08:20 PM EST,Colts,Cowboys,19,54,54 °F,Overcast
+12/05/22 08:15 PM EST,Saints,Buccaneers,16,17,73 °F,Clear
+12/08/22 08:15 PM EST,Raiders,Rams,16,17,59 °F,Clear
+12/11/22 01:00 PM EST,Jets,Bills,12,20,34 °F,Overcast
+12/11/22 01:00 PM EST,Browns,Bengals,10,23,44 °F,Mostly Cloudy
+12/11/22 01:00 PM EST,Texans,Cowboys,23,27,54 °F,Mostly Cloudy
+12/11/22 01:00 PM EST,Vikings,Lions,23,34,38 °F,Mostly Cloudy
+12/11/22 01:00 PM EST,Jaguars,Titans,36,22,50 °F,Overcast
+12/11/22 01:00 PM EST,Eagles,Giants,48,22,38 °F,Overcast
+12/11/22 01:00 PM EST,Ravens,Steelers,16,14,43 °F,Overcast
+12/11/22 04:05 PM EST,Dolphins,Chargers,17,23,59 °F,Overcast
+12/11/22 04:25 PM EST,Buccaneers,49ers,7,35,52 °F,Mostly Cloudy
+12/11/22 04:25 PM EST,Panthers,Seahawks,30,24,44 °F,Drizzle
+12/11/22 08:20 PM EST,Chiefs,Broncos,34,28,56 °F,Foggy
+12/12/22 08:15 PM EST,Patriots,Cardinals,27,13,55 °F,Mostly Cloudy
+12/15/22 08:15 PM EST,49ers,Seahawks,21,13,39 °F,Clear
+12/17/22 01:00 PM EST,Colts,Vikings,36,39,17 °F,Light Snow
+12/17/22 04:30 PM EST,Ravens,Browns,3,13,33 °F,Overcast
+12/17/22 08:15 PM EST,Dolphins,Bills,29,32,25 °F,Mostly Cloudy
+12/18/22 01:00 PM EST,Falcons,Saints,18,21,49 °F,Clear
+12/18/22 01:00 PM EST,Eagles,Bears,25,20,19 °F,Mostly Cloudy
+12/18/22 01:00 PM EST,Steelers,Panthers,24,16,46 °F,Clear
+12/18/22 01:00 PM EST,Cowboys,Jaguars,34,40,53 °F,Clear
+12/18/22 01:00 PM EST,Chiefs,Texans,30,24,49 °F,Clear
+12/18/22 02:00 PM EST,Lions,Jets,20,17,38 °F,Partly Cloudy
+12/18/22 04:05 PM EST,Cardinals,Broncos,15,24,37 °F,Foggy
+12/18/22 04:05 PM EST,Patriots,Raiders,24,30,46 °F,Clear
+12/18/22 04:25 PM EST,Titans,Chargers,14,17,64 °F,Clear
+12/18/22 04:25 PM EST,Bengals,Buccaneers,34,23,67 °F,Clear
+12/18/22 08:20 PM EST,Giants,Washington,20,12,34 °F,Clear
+12/19/22 08:15 PM EST,Rams,Packers,12,24,15 °F,Overcast
+12/22/22 08:15 PM EST,Jaguars,Jets,19,3,43 °F,Overcast
+12/24/22 01:00 PM EST,Bills,Bears,35,13,8 °F,Mostly Cloudy
+12/24/22 01:00 PM EST,Saints,Browns,17,10,5 °F,Overcast
+12/24/22 01:00 PM EST,Texans,Titans,19,14,15 °F,Partly Cloudy
+12/24/22 01:00 PM EST,Seahawks,Chiefs,10,24,10 °F,Clear
+12/24/22 01:00 PM EST,Giants,Vikings,24,27,0 °F,Partly Cloudy
+12/24/22 01:00 PM EST,Bengals,Patriots,22,18,15 °F,Clear
+12/24/22 01:00 PM EST,Lions,Panthers,23,37,19 °F,Clear
+12/24/22 01:00 PM EST,Falcons,Ravens,9,17,16 °F,Partly Cloudy
+12/24/22 04:05 PM EST,Washington,49ers,20,37,57 °F,Partly Cloudy
+12/24/22 04:25 PM EST,Eagles,Cowboys,34,40,35 °F,Clear
+12/24/22 08:15 PM EST,Raiders,Steelers,10,13,10 °F,Overcast
+12/25/22 01:00 PM EST,Packers,Dolphins,26,20,45 °F,Overcast
+12/25/22 04:30 PM EST,Broncos,Rams,14,51,80 °F,Clear
+12/25/22 08:20 PM EST,Buccaneers,Cardinals,19,16,70 °F,Clear
+12/26/22 08:15 PM EST,Chargers,Colts,20,3,21 °F,Overcast
+12/29/22 08:15 PM EST,Cowboys,Titans,27,13,56 °F,Partly Cloudy
+01/01/23 01:00 PM EST,Cardinals,Falcons,19,20,60 °F,Mostly Cloudy
+01/01/23 01:00 PM EST,Bears,Lions,10,41,37 °F,Overcast
+01/01/23 01:00 PM EST,Broncos,Chiefs,24,27,45 °F,Mostly Cloudy
+01/01/23 01:00 PM EST,Dolphins,Patriots,21,23,49 °F,Partly Cloudy
+01/01/23 01:00 PM EST,Colts,Giants,10,38,51 °F,Clear
+01/01/23 01:00 PM EST,Saints,Eagles,20,10,52 °F,Clear
+01/01/23 01:00 PM EST,Panthers,Buccaneers,24,30,73 °F,Overcast
+01/01/23 01:00 PM EST,Browns,Washington,24,10,57 °F,Clear
+01/01/23 01:00 PM EST,Steelers,Ravens,16,13,60 °F,Clear
+01/01/23 01:00 PM EST,Jaguars,Texans,31,3,70 °F,Overcast
+01/01/23 04:05 PM EST,49ers,Raiders,37,34,54 °F,Partly Cloudy
+01/01/23 04:05 PM EST,Jets,Seahawks,6,23,46 °F,Overcast
+01/01/23 04:25 PM EST,Vikings,Packers,17,41,37 °F,Mostly Cloudy
+01/01/23 08:20 PM EST,Rams,Chargers,10,31,59 °F,Partly Cloudy
+01/02/23 08:30 PM EST,Bills,Bengals,3,7,57 °F,Overcast
+01/07/23 04:30 PM EST,Chiefs,Raiders,31,13,51 °F,Mostly Cloudy
+01/07/23 08:15 PM EST,Titans,Jaguars,16,20,58 °F,Clear
+01/08/23 01:00 PM EST,Buccaneers,Falcons,17,30,57 °F,Overcast
+01/08/23 01:00 PM EST,Patriots,Bills,23,35,28 °F,Mostly Cloudy
+01/08/23 01:00 PM EST,Vikings,Bears,29,13,31 °F,Mostly Cloudy
+01/08/23 01:00 PM EST,Ravens,Bengals,16,27,37 °F,Overcast
+01/08/23 01:00 PM EST,Texans,Colts,32,31,34 °F,Overcast
+01/08/23 01:00 PM EST,Jets,Dolphins,6,11,77 °F,Partly Cloudy
+01/08/23 01:00 PM EST,Panthers,Saints,10,7,62 °F,Rain
+01/08/23 01:00 PM EST,Browns,Steelers,14,28,36 °F,Mostly Cloudy
+01/08/23 04:25 PM EST,Chargers,Broncos,28,31,51 °F,Foggy
+01/08/23 04:25 PM EST,Giants,Eagles,16,22,42 °F,Mostly Cloudy
+01/08/23 04:25 PM EST,Cardinals,49ers,13,38,61 °F,Mostly Cloudy
+01/08/23 04:25 PM EST,Rams,Seahawks,16,19,47 °F,Rain
+01/08/23 04:25 PM EST,Cowboys,Washington,6,26,41 °F,Overcast
+01/08/23 08:20 PM EST,Lions,Packers,20,16,23 °F,Mostly Cloudy
+01/20/24 04:30 PM EST,Texans,Ravens,10,34,27 °F,Mostly Cloudy
+01/20/24 08:15 PM EST,Packers,49ers,21,24,58 °F,Rain
+01/21/24 03:00 PM EST,Buccaneers,Lions,23,31,26 °F,Clear
+01/21/24 06:30 PM EST,Chiefs,Bills,27,24,25 °F,Mostly Cloudy
+01/20/24 04:30 PM EST,Texans,Ravens,10,34,27 °F,Mostly Cloudy
+01/20/24 08:15 PM EST,Packers,49ers,21,24,58 °F,Rain
+01/21/24 03:00 PM EST,Buccaneers,Lions,23,31,26 °F,Clear
+01/21/24 06:30 PM EST,Chiefs,Bills,27,24,25 °F,Mostly Cloudy
+01/20/24 04:30 PM EST,Texans,Ravens,10,34,27 °F,Mostly Cloudy
+01/20/24 08:15 PM EST,Packers,49ers,21,24,58 °F,Rain
+01/21/24 03:00 PM EST,Buccaneers,Lions,23,31,26 °F,Clear
+01/21/24 06:30 PM EST,Chiefs,Bills,27,24,25 °F,Mostly Cloudy
