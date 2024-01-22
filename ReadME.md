@@ -1,6 +1,6 @@
-# Project: Predicting the Probability of Injury of NFL Players
+# Project: Analyzing and Predicting Injuries in the NFL
 
-### Developed by: Prem Patel, Jack Frantz, and Kyera Francis
+### Developed by: Kyera Francis, Jack Frantz, and Prem Patel
 
 ## Objective
 The primary goal of this project is to develop a predictive model for a professional football analytics team. This model aims to accurately forecast the probability of player injuries in the NFL.
@@ -52,3 +52,10 @@ The primary goal of this project is to develop a predictive model for a professi
   - Data from the NFL Combine event 
   
   The data was collected by JohnM and is available on Kaggle.
+
+
+- [NFL Play by Play Injury Data](https://www.kaggle.com/competitions/nfl-playing-surface-analytics/data)
+    - This dataset is separately taken from another competition hosted by the NFL, NFL 1st and Future - Analytics, and contains:
+    - 105 lower body injury records from 2 subsequent seasons
+    - Play-by-play data with information like weather, temperature, play type, position involved, bodily part injured, etc.
+    - Player track data (***this we did not utilize***)
