@@ -74,14 +74,17 @@ def extract_date_from_game_id(schedule):
         schedule["game_id_str"] = schedule["Game ID"].astype(str)
 
         # Extract the date part (first 8 characters) and convert to datetime
-        schedule["Game Date"] = pd.to_datetime(
+        schedule["Game_Date"] = pd.to_datetime(
             schedule["game_id_str"].str[:8], format="%Y%m%d"
         )
+        schedule = extract_date_from_game_id(schedule)
+        if "Game_Date" not in schedule.columns:
+            raise ValueError("Game_Date column not added to schedule")
 
         return schedule
     except Exception as e:
-        st.error(f"Error extracting date from game_id: {e}")
-        return schedule  # Return the original schedule in case of error
+        st.error(f"Error loading schedule data: {e}")
+        return pd.DataFrame()
 
 
 # Team Schedule
@@ -384,7 +387,7 @@ def show_season_schedule(player_info, schedule, weather_data, stadium_data):
         "SEA": "Seahawks",
         "TB": "Buccaneers",
         "TEN": "Titans",
-        "WAS": "Football Team",
+        "WAS": "Washington",
     }
     # Merge the schedule and weather data
     merged_schedule = merge_schedule_with_weather(
@@ -396,7 +399,7 @@ def show_season_schedule(player_info, schedule, weather_data, stadium_data):
     if not player_schedule.empty:
         # Display the full season schedule
         st.write("Full Season Schedule:")
-        player_schedule["Game Date"] = player_schedule["Game Date"].astype(str).str[:10]
+        player_schedule["Game_Date"] = player_schedule["Game Date"].astype(str).str[:10]
         st.write(player_schedule.drop(columns=["Game ID"]).reset_index())
 
         # Adding a week selector below the full schedule
@@ -525,7 +528,7 @@ def display_weather_stadium_info(
             st.write("Weather Data 'game_id' Sample:", weather_data["game_id"].head())
 
             if not stadium_info.empty and not game_weather.empty:
-                game_date = week_game["Game Date"]
+                game_date = week_game["Game_Date"]
                 st.subheader(f"Weather and Stadium Information for Game on {game_date}")
 
                 col1, col2 = st.columns(2)  # Create two columns
