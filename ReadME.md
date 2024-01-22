@@ -3,10 +3,10 @@
 ### Developed by: Kyera Francis, Jack Frantz, and Prem Patel
 
 ## Objective
-The primary goal of this project is to develop a predictive model for a professional football analytics team. This model aims to accurately forecast the probability of player injuries in the NFL.
+The primary goal of this project is to develop a predictive model for a professional football analytics team. This model aims to accurately forecast the probability of player injuries in the NFL based on a players injury history. We also aim to use data from conditions of play to determine how the weather and field types may explain injury occurance and severity.
 
 ### Key Focus Areas
-- **Data Utilization**: The model will leverage historical data, encompassing a wide array of variables such as player performance metrics, training intensity, previous injury history, and game conditions.
+- **Data Utilization**: The modeling for player injury predictions will leverage historical injury data agregated from weekly NFL injury reports. Both injury type and frequency for each player will be taken into account to predict future injury occurances. In the future, data such as player performance metrics and training intensity can be added to potentially improve modeling. For added context, data on game conditions like weather, field material, and stadium type was analyzed to find connections to injury occurance and severity.
 - **Analysis and Pattern Recognition**: By analyzing patterns and correlations within the data, the model will provide insights into the key risk factors contributing to injuries.
 - **Injury Prevention Strategies**: Utilizing the insights gained, the team can implement more effective injury prevention strategies, optimizing player health management and reducing the likelihood of injuries.
 ## Project Organization
