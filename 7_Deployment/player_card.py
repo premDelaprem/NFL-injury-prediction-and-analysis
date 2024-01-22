@@ -14,7 +14,7 @@ import seaborn as sns
 import time
 from meteostat import Point, Daily, Hourly
 from datetime import datetime
-
+import base64
 
 st.set_page_config(
     page_title="2022 NFL Injury Player Card",
@@ -204,8 +204,82 @@ def get_team_name_mapping():
 ##########################################
 ##  Style and Formatting                ##
 ##########################################
+# Define custom CSS to style the app
+st.markdown(
+    """
+    <style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #5C4033; 
+    }
+    .stApp {
+        max-width: 1200px; 
+        margin: 0 auto; 
+    }
+    .st-h1 {
+        color: #964B00; 
+    }
+    .st-h2 {
+        color: #1E90FF;
+    }
+    .st-h3 {
+        color: #1E90FF;
+    }
+    .st-image {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);  /* Add a shadow to images */
+        border-radius: 10px;  /* Rounded corners for images */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+# Create a header with a football-themed title
+st.markdown(
+    "<h1 class='st-h1' style='text-align: center;'>Football App</h1>",
+    unsafe_allow_html=True,
+)
 
 
+# Add a football field image to the sidebar
+def sidebar_bg(side_bg):
+    side_bg_ext = "webp"
+
+    st.markdown(
+        f"""
+      <style>
+      [data-testid="stSidebar"] > div:first-child {{
+          background: url(data:image/{side_bg_ext};base64,{base64.b64encode(open(side_bg, "rb").read()).decode()});
+          background-repeat: no-repeat; 
+          background-size: cover; 
+      }}
+      </style>
+      """,
+        unsafe_allow_html=True,
+    )
+
+
+# Function to customize sidebar font style and size
+def customize_sidebar():
+    # Custom CSS for sidebar font style and size
+    st.markdown(
+        f"""
+      <style>
+      [data-testid="stSidebar"] .sidebar-content {{
+          font-family: "Arial", sans-serif;
+          font-size: 18px; 
+          color: #FFFFFF;
+      }}
+      </style>
+      """,
+        unsafe_allow_html=True,
+    )
+
+
+# Call the functions to customize the sidebar
+side_bg = "./src/vertical-background-posters-night-american-600nw-245578828.webp"
+sidebar_bg(side_bg)
+customize_sidebar()
 ##########################################
 ##  Title, Tabs, and Sidebar            ##
 ##########################################
