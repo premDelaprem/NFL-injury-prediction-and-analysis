@@ -1,4 +1,4 @@
-# Project: Analyzing and Predicting Injuries in the NFL
+# Analyzing and Predicting Injuries in the NFL
 
 ### Developed by: Kyera Francis, Jack Frantz, and Prem Patel
 
